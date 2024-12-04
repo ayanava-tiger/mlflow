@@ -1,0 +1,15 @@
+artifact_uri: /home/ayanava/mlflow/mlruns/952775695246987617/c8694495006e4df3902fcc94ba977fe0/artifacts
+end_time: 1733344583949
+entry_point_name: ''
+experiment_id: '952775695246987617'
+lifecycle_stage: active
+run_id: c8694495006e4df3902fcc94ba977fe0
+run_name: fun-lark-349
+run_uuid: c8694495006e4df3902fcc94ba977fe0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733344582199
+status: 3
+tags: []
+user_id: ayanava

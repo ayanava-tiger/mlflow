@@ -1,0 +1,15 @@
+artifact_uri: /home/ayanava/mlflow/mlruns/952775695246987617/e17f882ba2eb43e39ad095e2f1ca6ec4/artifacts
+end_time: 1733345765909
+entry_point_name: ''
+experiment_id: '952775695246987617'
+lifecycle_stage: active
+run_id: e17f882ba2eb43e39ad095e2f1ca6ec4
+run_name: likeable-hawk-1000
+run_uuid: e17f882ba2eb43e39ad095e2f1ca6ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733345763354
+status: 3
+tags: []
+user_id: ayanava

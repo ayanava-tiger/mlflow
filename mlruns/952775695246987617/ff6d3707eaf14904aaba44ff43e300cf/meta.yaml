@@ -1,0 +1,15 @@
+artifact_uri: /home/ayanava/mlflow/mlruns/952775695246987617/ff6d3707eaf14904aaba44ff43e300cf/artifacts
+end_time: 1733344582163
+entry_point_name: ''
+experiment_id: '952775695246987617'
+lifecycle_stage: active
+run_id: ff6d3707eaf14904aaba44ff43e300cf
+run_name: masked-swan-582
+run_uuid: ff6d3707eaf14904aaba44ff43e300cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733344580398
+status: 3
+tags: []
+user_id: ayanava

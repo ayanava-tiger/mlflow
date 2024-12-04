@@ -1,0 +1,15 @@
+artifact_uri: /home/ayanava/mlflow/mlruns/952775695246987617/a7ebc4fb9d4b4078bdb3e4337b02bf4c/artifacts
+end_time: 1733345769452
+entry_point_name: ''
+experiment_id: '952775695246987617'
+lifecycle_stage: active
+run_id: a7ebc4fb9d4b4078bdb3e4337b02bf4c
+run_name: fortunate-newt-422
+run_uuid: a7ebc4fb9d4b4078bdb3e4337b02bf4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733345767577
+status: 3
+tags: []
+user_id: ayanava

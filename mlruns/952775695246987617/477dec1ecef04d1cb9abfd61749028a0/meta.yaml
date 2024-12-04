@@ -1,0 +1,15 @@
+artifact_uri: /home/ayanava/mlflow/mlruns/952775695246987617/477dec1ecef04d1cb9abfd61749028a0/artifacts
+end_time: 1733345771320
+entry_point_name: ''
+experiment_id: '952775695246987617'
+lifecycle_stage: active
+run_id: 477dec1ecef04d1cb9abfd61749028a0
+run_name: flawless-calf-549
+run_uuid: 477dec1ecef04d1cb9abfd61749028a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733345769488
+status: 3
+tags: []
+user_id: ayanava

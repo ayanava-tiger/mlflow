@@ -1,0 +1,6 @@
+artifact_location: /home/ayanava/mlflow/mlruns/952775695246987617
+creation_time: 1733344558875
+experiment_id: '952775695246987617'
+last_update_time: 1733344558875
+lifecycle_stage: active
+name: ElasticNet_wine_TA
